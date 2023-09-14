@@ -78,7 +78,7 @@ target/
 celerybeat-schedule
 
 # dotenv
-.env
+demrestapi/demrestapi/.env
 
 # virtualenv
 venv/
